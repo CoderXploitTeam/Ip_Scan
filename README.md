@@ -1,2 +1,28 @@
+<p align="left">
+
+<a href="#"><img title="Author by tegar ID" src="https://img.shields.io/badge/AUTHOR%20BY-TEGAR%20ID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<p align="center"> 
+<a href="https://github.com/Tegar-ID/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Dunia-Kode?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tegar-ID/Phish/stargazers/">
+<img title="Stars" src="https://img.shields.io/github/stars/Dunia-Kode/Pilus?color=red&style=flat-square"></a>
+<a href="https://github.com/Dunia-Kode/network/members">
+<img title="Forks" src="https://img.shields.io/github/forks/Dunia-Kode/Pilus?color=red&style=flat-square"></a>
+<a href="https://github.com/Dunia-Kode/Pilus/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dunia-Kode/Pilus?label=Watchers&color=blue&style=flat-square"></a>
+</p> 
+
 # Ip_Scan
-&lt;p align="left">  &lt;a href="#">&lt;img title="Author by tegar ID" src="https://img.shields.io/badge/AUTHOR%20BY-TEGAR%20ID-green?colorA=%23ff0000&amp;colorB=%23017e40&amp;style=for-the-badge">&lt;/a>  &lt;p align="center">  &lt;a href="https://github.com/Tegar-ID/followers"> &lt;img title="Followers" src="https://img.shields.io/github/followers/Dunia-Kode?color=blue&amp;style=flat-square">&lt;/a> &lt;a href="https://github.com/Tegar-ID/Phish/stargazers/"> &lt;img title="Stars" src="https://img.shields.io/github/stars/Dunia-Kode/Pilus?color=red&amp;style=flat-square">&lt;/a> &lt;a href="https://github.com/Dunia-Kode/network/members"> &lt;img title="Forks" src="https://img.shields.io/github/forks/Dunia-Kode/Pilus?color=red&amp;style=flat-square">&lt;/a> &lt;a href="https://github.com/Dunia-Kode/Pilus/watchers">&lt;img title="Watching" src="https://img.shields.io/github/watchers/Dunia-Kode/Pilus?label=Watchers&amp;color=blue&amp;style=flat-square">&lt;/a> &lt;/p>   # tema + Ubah Tema Termux Menjadi Linux + Ubah Font Termux Jadi Linux + Good  # INSTALL ```php $ pkg update &amp;&amp; pkg upgrade $ pkg install python $ pkg install git $ git clone https://github.com/Dunia-Kode/tema $ cd tema $ python linux.py ```
++ mencari informasi tentang ip
++ informasi lokasi
++ dll
+
+# INSTALL
+```php
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ git clone https://github.com/Dunia-Kode/Ip_Scan
+$ cd Ip_Scan
+$ python start.py
+```
